@@ -8,3 +8,11 @@ This repo contains (precompiled) development tools.
 
 This tool is an onboarding tool and a generic client.
 Documentation can be found at:
+
+
+## install OTGC on Linux
+
+execute in a bash shell:
+
+curl https://openconnectivityfoundation.github.io/development-support/otgc/linux/install.sh | bash
+
