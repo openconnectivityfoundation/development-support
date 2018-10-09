@@ -9,6 +9,8 @@ This repo contains (precompiled) development tools.
 This tool is an onboarding tool and a generic client.
 Documentation can be found at:
 
+ https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.1.pdf
+
 
 ## install OTGC on Linux (debian)
 
