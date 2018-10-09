@@ -20,10 +20,10 @@ set -x #echo on
 
 set VERSION=1.1.0
 
-git clone https://github.com/openconnectivityfoundation/developer_tools.git
+git clone https://github.com/openconnectivityfoundation/developer-support.git
 
 # install OTGC on linux
-cd developer_tools/oggc/linux
+cd developer-support/oggc/linux
 unzip otgc_linux_$(VERSION).zip
 sudo apt-get install openjdk-8-jdk
 sudo apt-get install openjfx
