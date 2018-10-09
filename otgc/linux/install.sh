@@ -20,7 +20,7 @@ set -x #echo on
 
 set VERSION=1.1.0
 
-git clone https://github.com/openconnectivityfoundation/developer-support.git
+git clone https://github.com/openconnectivityfoundation/development-support.git
 
 # install OTGC on linux
 cd developer-support/oggc/linux
