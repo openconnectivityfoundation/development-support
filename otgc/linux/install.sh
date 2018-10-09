@@ -25,8 +25,8 @@ git clone https://github.com/openconnectivityfoundation/development-support.git
 # install OTGC on linux
 cd developer-support/oggc/linux
 unzip otgc_linux_$(VERSION).zip
-sudo apt-get install openjdk-8-jdk
-sudo apt-get install openjfx
+sudo apt-get -y install openjdk-8-jdk
+sudo apt-get -y install openjfx
 #sudo apt install ./otgc-1.1.0.deb
 sudo dpkg -i otgc-$(VERSION).deb
 
