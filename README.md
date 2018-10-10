@@ -12,7 +12,7 @@ Documentation can be found at:
  https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.1.pdf
 
 
-## install OTGC on Linux (debian)
+## install OTGC on Linux (x86-debian)
 
 execute in a bash shell:
 
