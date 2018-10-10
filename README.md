@@ -14,7 +14,7 @@ Documentation can be found at:
 
 ## install OTGC on Linux (x86-debian)
 
-execute in a bash shell:
+Execute in a bash shell:
 
 curl https://openconnectivityfoundation.github.io/development-support/otgc/linux/install.sh | bash
 
