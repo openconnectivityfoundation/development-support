@@ -20,4 +20,10 @@ The tool has been designed to interact with devices on OCF operation level (Meth
 
 download the msi installer msi:
 
+https://openconnectivityfoundation.github.io/development-support/DeviceSpy/OCFDeviceSpy_1.0/OCFDeviceSpySetup.msi
+
+
+go to the downloaded file and install the file.
+
+when the installer is running one will see:
 
