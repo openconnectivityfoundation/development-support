@@ -10,7 +10,7 @@ The tool has been designed to interact with devices on OCF operation level (Meth
 - OBSERVE (GET + observe flag)
 
 
-see for more instructions the help file, when the tool is installed:
+see for more instructions the help file, which will be available when the tool is installed via:
 
 Menu -&gt; Help -&gt; User Guide
 
@@ -33,4 +33,4 @@ please click the "More Info" link on the page.
 ![alt text](https://openconnectivityfoundation.github.io/development-support/DeviceSpy/dont-run.png "Run anyway")
 
 
-please click the "Run Aanyway" button on the page.
+please click the "Run anyway" button on the page.
