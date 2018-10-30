@@ -10,7 +10,9 @@ The tool has been designed to interact with devices on OCF operation level (Meth
 - OBSERVE (GET + observe flag)
 
 
-see for more instructions the help file, when the tool is installed.
+see for more instructions the help file, when the tool is installed:
+
+Menu -&gt; Help -&gt; User Guide
 
 ## install Device Spy on Windows
 
