@@ -6,9 +6,9 @@ This repo contains (precompiled) development tools.
 
 # Onboarding Tool Generic Client (OTGC)
 
-See /otgc/README.md
+See https://openconnectivityfoundation.github.io/development-support/otgc/README.md
 
 
 # Device Spy
 
-See /DeviceSpy/README.md
+See https://openconnectivityfoundation.github.io/development-support/DeviceSpy/README.md
