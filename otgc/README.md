@@ -3,7 +3,7 @@
 This tool is an onboarding tool and a generic client.
 Documentation can be found at:
 
-"https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-20 - OTGC_User_Manual_v1.1"
+"https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.1"
 
 
 ## install OTGC on Linux (x86-debian)
@@ -36,7 +36,7 @@ If the installation is not automatically started then:
 
 further instructions can be found at:
 
-"https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-21 - OTGC_System_Description_and_Setup_v1.1.pdf"
+"https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-21%20-%20OTGC_System_Description_and_Setup_v1.1.pdf"
 
 
 
