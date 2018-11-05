@@ -16,7 +16,7 @@ curl https://openconnectivityfoundation.github.io/development-support/otgc/linux
 Note that executing this command will do an clone of this repo and install the executable on a debian system.
 
 
-## install OTGC on Android (50.1 or later)
+## install OTGC on Android (5.0.1 or later)
 
 
 make sure that the android device has the "Unknown sources" installation option enabled.
