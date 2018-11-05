@@ -1,7 +1,8 @@
 # Onboarding Tool Generic Client (OTGC)
 
 This tool is an onboarding tool and a generic client.
-Documentation can be found at:
+
+**User Manual can be found at:**
 
 https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.1.pdf
 
@@ -34,7 +35,7 @@ If the installation is not automatically started then:
 - go the folder where the apk is downloaded.
 - click to install the apk
 
-further instructions can be found at:
+further installation instructions can be found at:
 
 https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-21%20-%20OTGC_System_Description_and_Setup_v1.1.pdf
 
