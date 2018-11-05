@@ -28,10 +28,10 @@ download on android:
 
 https://openconnectivityfoundation.github.io/development-support/otgc/android/otgc-debug.apk
 
-most of the time this automatic starts the installation.
+most of the time after the download the installation starts automatically.
 If the installation is not automatically started then:
 - go the folder where the apk is downloaded.
--  click to install the apk
+- click to install the apk
 
 further instructions can be found at:
 
