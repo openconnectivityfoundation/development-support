@@ -2,6 +2,8 @@
 
 This tool is an onboarding tool and a generic client.
 Documentation can be found at:
+[here](https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-20 - OTGC_User_Manual_v1.1) 
+
 c
 
 
@@ -26,14 +28,14 @@ https://www.quora.com/How-do-I-install-APKs-from-unknown-sources-on-Android
 
 download on android:
 
-https://openconnectivityfoundation.github.io/development-support/otgc/android/otgc-debug.apk
+TLAB-WTS-UM-20 - OTGC_User_Manual_v1.1otgc-debug.apk
 
 most of the time after the download the installation starts automatically.
 If the installation is not automatically started then:
 - go the folder where the apk is downloaded.
 - click to install the apk
 
-further instructions can be found at:
+further instructions can be found [here](https://openconnectivityfoundation.github.io/development-support/otgc/TLAB-WTS-UM-21 - OTGC_System_Description_and_Setup_v1.1.pdf) 
 
-"https://developer.android.com/studio/debug/dev-options/TLAB-WTS-UM-21 - OTGC_System_Description_and_Setup_v1.1.pdf"
+
 
