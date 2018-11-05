@@ -17,11 +17,11 @@ Note that executing this command will do an clone of this repo and install the e
 ## install OTGC on Android (50.1 or later)
 
 
-make sure that the android device has the developer options enabled.
-e.g. this enables that apk can be installed that are not in google play.
+make sure that the android device has the "Unknown sources" installation option enabled.
+e.g. this enables that apks can be installed that are not in google play.
 see for instructions:
 
-https://developer.android.com/studio/debug/dev-options
+https://www.quora.com/How-do-I-install-APKs-from-unknown-sources-on-Android
 
 
 download on android:
