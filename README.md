@@ -1,7 +1,7 @@
 # development-support
 
 
-This repo contains (precompiled) development tools.
+This repo contains (precompiled) development tools, OCF clients that can be used for development.
 
 
 # Onboarding Tool Generic Client (OTGC)
