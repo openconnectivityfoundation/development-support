@@ -4,7 +4,7 @@ This tool is an onboarding tool and a generic client.
 
 **User Manual can be found at:**
 
-https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.1.pdf
+https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.2.pdf
 
 
 ## install OTGC on Linux (x86-debian)
