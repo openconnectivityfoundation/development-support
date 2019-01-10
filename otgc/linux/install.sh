@@ -18,7 +18,7 @@ set -x #echo on
 #
 #############################
 
-VERSION=1.2.0
+VERSION=1.3.0
 
 git clone https://github.com/openconnectivityfoundation/development-support.git
 
