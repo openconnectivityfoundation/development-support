@@ -31,7 +31,7 @@ https://www.quora.com/How-do-I-install-APKs-from-unknown-sources-on-Android
 
 download on android:
 
-TLAB-WTS-UM-20 - OTGC_User_Manual_v1.1otgc-debug.apk
+https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/android/otgc-debug.apk
 
 most of the time after the download the installation starts automatically.
 If the installation is not automatically started then:
