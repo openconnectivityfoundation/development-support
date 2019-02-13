@@ -23,17 +23,14 @@ Once installed, the OTGC can be launched by executing /usr/bin/otgc.sh at the ba
 ## install OTGC on Android (5.0.1 or later)
 
 make sure that the android device has the "Unknown sources" installation option enabled.
-e.g. this enables that apks can be installed that are not in google play.
-see for instructions:
+e.g. this enables that apks can be installed that are not in google play. 
+How to do this varies per Android version and vendor, please look at the vendor site or google on "Unknown sources".
 
-https://www.quora.com/How-do-I-install-APKs-from-unknown-sources-on-Android
-
-
-download on android:
+Download URL:
 
 https://openconnectivityfoundation.github.io/development-support/otgc/android/otgc-debug.apk
 
-most of the time after the download the installation starts automatically.
+Most of the time after the download the installation starts automatically.
 If the installation is not automatically started then:
 - go the folder where the apk is downloaded.
 - click to install the apk
