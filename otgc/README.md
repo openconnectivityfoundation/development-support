@@ -7,7 +7,9 @@ This tool is an onboarding tool and a generic client.
 https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.2.pdf
 
 
-## install OTGC on Linux (x86-debian)
+## Install OTGC on Linux (x86-debian)
+
+This deb file is to be used to install OTGC on a Linux PC preferably running Ubuntu 16 or later.
 
 Execute in a bash shell:
 
@@ -17,12 +19,14 @@ Note that executing this command will do an clone of this repo and install the e
 
 ## launch the OTGC on Linux (x86-debian)
 
-Once installed, the OTGC can be launched by executing /usr/bin/otgc.sh at the bash prompt, or by searching for the "OTGC" app launcher .
+Once installed, the OTGC can be launched by executing /usr/bin/otgc.sh at the bash prompt, or by searching for the "OTGC" app launcher.
 
 
-## install OTGC on Android (5.0.1 or later)
+## Install OTGC on Android
 
-make sure that the android device has the "Unknown sources" installation option enabled.
+Only available for Android 5.0.1 or later.
+
+Make sure that the android device has the "Unknown sources" installation option enabled
 e.g. this enables that apks can be installed that are not in google play. 
 How to do this varies per Android version and vendor, please look at the vendor site or google on "Unknown sources".
 
@@ -35,7 +39,7 @@ If the installation is not automatically started then:
 - go the folder where the apk is downloaded.
 - click to install the apk
 
-further installation instructions can be found at:
+Further installation instructions can be found at:
 
 https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-21%20-%20OTGC_System_Description_and_Setup_v1.1.pdf
 
