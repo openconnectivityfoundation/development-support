@@ -1,10 +1,7 @@
 # Onboarding Tool Generic Client (OTGC)
 
-This tool is an onboarding tool and a generic client.
-
-**User Manual can be found at:**
-
-https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-20%20-%20OTGC_User_Manual_v1.2.pdf
+This Application is an onboarding tool (OBT) and a generic OCF Client.
+Hence it can interact with OCF servers without any coding on the Client side.
 
 
 ## Install OTGC on Linux (x86-debian)
@@ -41,7 +38,61 @@ If the installation is not automatically started then:
 
 Further installation instructions can be found at:
 
-https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/TLAB-WTS-UM-21%20-%20OTGC_System_Description_and_Setup_v1.1.pdf
+https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_System_Description_and_Setup.pdf
+
+
+
+## Typical usage of OTGC
+
+### Steps to Transfer Ownership a OCF Server.
+
+1) Start the application
+    
+    This will list all devices on the network. 
+    
+    If no devices are found on the network, then do a manual search (see manual).
+    
+2) Transfer Ownership
+
+   Click on the + sign of the not yet onboarded device.
+   
+   OTGC will use an appropriate onboarding mechanism to transfer the ownership to this OTGC.
+
+3) Name the OCF device
+
+   Enter a new appropriate name for the OCF server.
+
+More details can be found in the OTGC user manual.
+
+### Steps to interact with an Onboarded OCF Server.
+
+1) Start the application
+    
+    This will list all devices on the network. 
+
+2) Select a OCF server to interact with by clicking the wheel on the OCF Server.
+
+   This will cause that the OCF server is selected to interact with.
+   
+   It also will show the Resource screen.
+   This screen list the implemented resources that belongs to the device type.
+   
+3) Resource screen
+   
+   This screen list all resources.
+   
+   Interacting with the properties of each Resource can be done by:
+   
+   listing all properties by clicking the (v) symbol and use the entry mechanism per property.
+   
+   
+More details can be found in the OTGC user manual.
+
+### OTGC User Manual 
+**User Manual can be found at:**
+
+https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_User_Manual.pdf
+
 
 
 
