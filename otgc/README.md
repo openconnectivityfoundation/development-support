@@ -5,7 +5,8 @@ Hence it can interact with OCF servers without any coding on the Client side.
 
 ## Install OTGC on Ubunto
 
-__ no precompiled package support__
+__no precompiled package support__
+
 see compile and installation steps on:
 https://github.com/openconnectivity/otgc-linux
 
