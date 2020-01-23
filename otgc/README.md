@@ -3,20 +3,11 @@
 This Application is an onboarding tool (OBT) and a generic OCF Client.
 Hence it can interact with OCF servers without any coding on the Client side.
 
+## Install OTGC on Ubunto
 
-## Install OTGC on Linux (x86-debian)
-
-This deb file is to be used to install OTGC on a Linux PC preferably running Ubuntu 16 or later.
-
-Execute in a bash shell:
-
-curl https://openconnectivityfoundation.github.io/development-support/otgc/linux/install.sh | bash
-
-Note that executing this command will do an clone of this repo and install the executable on a debian system.
-
-## launch the OTGC on Linux (x86-debian)
-
-Once installed, the OTGC can be launched by executing /usr/bin/otgc.sh at the bash prompt, or by searching for the "OTGC" app launcher.
+__ no precompiled package support__
+see compile and installation steps on:
+https://github.com/openconnectivity/otgc-linux
 
 
 ## Install OTGC on Android
