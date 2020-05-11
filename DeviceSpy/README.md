@@ -29,6 +29,6 @@ When the installer is running one might see (windows 10):
 
 Please click the "More Info" link on the page.
 
-![alt text](https://openconnectivityfoundation.github.io/development-support/DeviceSpy/dont-run.png "Run anyway")
+![alt text](https://openconnectivityfoundation.github.io/development-support/DeviceSpy/run-anyway.png "Run anyway")
 
 Please click the "Run anyway" button on the page.
