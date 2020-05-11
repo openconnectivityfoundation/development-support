@@ -7,8 +7,7 @@ Hence it can interact with OCF servers without any coding.
 
 __no precompiled package support__
 
-See compile and installation steps on:
-https://github.com/openconnectivity/otgc-linux#script-to-build-and-install
+See compile and installation steps are available [here](https://github.com/openconnectivity/otgc-linux#script-to-build-and-install)
 
 ## Install OTGC on Android
 
