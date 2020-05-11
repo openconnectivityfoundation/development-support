@@ -24,12 +24,11 @@ https://openconnectivityfoundation.github.io/development-support/otgc/android/ot
 
 Most of the time after the download the installation starts automatically.
 If the installation is not automatically started then:
+
 - go the folder where the apk is downloaded.
 - click to install the apk
 
-Further installation instructions can be found at:
-
-https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_System_Description_and_Setup.pdf
+Further installation instructions can be found [here](https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_System_Description_and_Setup.pdf)
 
 
 ## Typical usage of OTGC
@@ -37,7 +36,7 @@ https://github.com/openconnectivityfoundation/development-support/blob/master/ot
 ### Steps to Transfer Ownership a OCF Server.
 
 1. Start the application
-   This will list all devices on the network. 
+   This will list all devices on the network.
    If no devices are found on the network, then do a manual search (see manual).
 2. Transfer Ownership
    Click on the + sign of the not yet onboarded device.
@@ -50,7 +49,7 @@ More details can be found in the OTGC user manual.
 ### Steps to interact with an Onboarded OCF Server
 
 1. Start the application  
-   This will list all devices on the network. 
+   This will list all devices on the network.
 
 2. Select a OCF server to interact with by clicking the wheel on the OCF Server.
    This will cause that the OCF server is selected to interact with.
@@ -64,10 +63,5 @@ More details can be found in the OTGC user manual.
 More details can be found in the OTGC user manual.
 
 ### OTGC User Manual 
-**User Manual can be found at:**
 
-https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_User_Manual.pdf
-
-
-
-
+The user manual can be found [here](https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_User_Manual.pdf)
