@@ -3,7 +3,7 @@
 This Application is an onboarding tool (OBT) and a generic OCF Client.
 Hence it can interact with OCF servers without any coding.
 
-## Install OTGC on Ubunto
+## Install OTGC on Ubuntu
 
 __no precompiled package support__
 
