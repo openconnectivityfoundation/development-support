@@ -64,3 +64,11 @@ More details can be found in the OTGC user manual.
 ### OTGC User Manual 
 
 The user manual can be found [here](https://github.com/openconnectivityfoundation/development-support/blob/master/otgc/OTGC_User_Manual.pdf)
+
+Note:
+
+OTGC Linux logs are copied into:  /usr/share/otgc/target/clases/otgc.log
+OTGC Android logs are copied into: internal storage/Android/data/org.openconnectivity.otgc/files/log
+
+They can be also accessed through the UI.
+
