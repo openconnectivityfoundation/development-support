@@ -19,7 +19,7 @@ Menu -&gt; Help -&gt; User Guide
 
 download the msi installer msi:
 
-https://openconnectivityfoundation.github.io/development-support/DeviceSpy/OCFDeviceSpy_1.2.4/OCFDeviceSpySetup.msi
+https://openconnectivityfoundation.github.io/development-support/DeviceSpy/OCFDeviceSpy_1.2.5/OCFDeviceSpySetup.msi
 
 Install the file by clicking the installer (depends on the used browser).
 
